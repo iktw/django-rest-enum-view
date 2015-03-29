@@ -7,8 +7,10 @@ Requirements
 
 Usage
 -
+```
 class MyEnumView(EnumView):
     enum_class = MyEnumClass
+```
 
 Response
 -
